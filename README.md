@@ -11,6 +11,7 @@ Técnica em Informática para Internet.
 💻 Conhecimento e familiaridade em Python, Java, Node.js, MongoDB, APIs, Macro VBA.  
 
 
+Minhas especialidades e conhecimentos:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,3 +20,4 @@ Técnica em Informática para Internet.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Knime](https://img.shields.io/badge/KNIME-FEDB00?style=for-the-badge&logo=knime&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Macro VBA](https://img.shields.io/badge/Macro%20VBA-862633?style=for-the-badge&logo=microsoft&logoColor=white)
