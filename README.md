@@ -12,10 +12,10 @@ Técnica em Informática para Internet.
 
 
 
-
+________________________________________
 Contatos:
 📧 [Email](mailto:aamandaluanap7@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/amanda-luana-pedreira)
+🔗 [LinkedIn](https://www.linkedin.com/in/amanda-luana-pedreira)
 
 
 ________________________________________
