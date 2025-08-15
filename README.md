@@ -14,6 +14,7 @@ Técnica em Informática para Internet.
 
 ________________________________________
 Contatos:
+
 📧 [Email](mailto:aamandaluanap7@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amanda-luana-pedreira)
 
