@@ -11,6 +11,8 @@ Técnica em Informática para Internet.
 💻 Conhecimento e familiaridade em Python, Java, Node.js, MongoDB, APIs, Macro VBA.  
 
 
+________________________________________
+
 Minhas especialidades e conhecimentos:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
