@@ -6,7 +6,7 @@ Eu sou a Amanda Luana 💚
 - Graduanda em Análise e Desenvolvimento de Sistemas.  
 Técnica em Informática para Internet.  
 
-🌟 Encanto por backend, gosto por dado, e grande facilidade e domínio em desenvolvimento front-end.  
+🌟 Encanto por backend, gosto por dados, e grande facilidade e domínio em desenvolvimento front-end.  
 
 💻 Conhecimento e familiaridade em Python, Java, Node.js, MongoDB, APIs, Macro VBA.  
 
