@@ -11,6 +11,13 @@ Técnica em Informática para Internet.
 💻 Conhecimento e familiaridade em Python, Java, Node.js, MongoDB, APIs, Macro VBA.  
 
 
+
+amandaluanap7@gmail.com
+https://www.linkedin.com/in/amanda-luana-pedreira
+📧 [Email](mailto:amanda.seuemail@exemplo.com)  
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)
+
+
 ________________________________________
 
 Minhas especialidades e conhecimentos:
