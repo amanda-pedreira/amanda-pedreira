@@ -1,80 +1,49 @@
-<table>
-  <tr>
-    <!-- SIDEBAR (esquerda) -->
-    <td width="34%" valign="top">
+# Amanda Luana Pedreira
 
-<img src="SUA_SEREIA_AQUI" width="140" />
+Estudante de **Análise e Desenvolvimento de Sistemas** e Técnica em Informática para Internet.  
+Atualmente atuo na **Nestlé**, com foco em automação e organização de dados.
 
-### Amanda Luana Pedreira
-**ADS • Automação de Dados • Web**
-
-<br>
-
-**Atualmente**  
-Nestlé — automação e organização de dados (KNIME, Excel, VBA) + soluções web internas.
-
-<br>
-
-**Contato**  
-- Email: amandaluanap7@gmail.com  
-- LinkedIn: https://linkedin.com/in/amanda-luana-pedreira  
-
-<br>
-
-**Stack principal**  
-- KNIME Analytics, Excel, VBA  
-- JavaScript, PHP, MySQL  
-- Node.js, MongoDB (em evolução)  
-- Java (acadêmico)
-
-<br>
-
-<img src="https://img.shields.io/badge/OPEN_TO-Júnior_TI-0A6F5A?style=flat" />
-<img src="https://img.shields.io/badge/São%20Paulo-SP-0A6F5A?style=flat" />
-
-    </td>
-
-    <!-- CONTEÚDO (direita) -->
-    <td width="66%" valign="top">
+---
 
 ## Sobre
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnica em Informática para Internet.  
-Gosto muito de **dados** (automação/organização) e me identifiquei com **back-end** pela lógica.  
-Ao mesmo tempo, tenho prática com **front-end** criando interfaces funcionais e responsivas.
+- Automação de processos e dados com **KNIME Analytics**, Excel e VBA  
+- Desenvolvimento web com **JavaScript, PHP e MySQL**  
+- Interesse em **back-end**, APIs e aplicações orientadas à lógica  
+- Construindo portfólio com projetos acadêmicos e corporativos
 
 ---
 
-## Projeto em produção (destaque)
+## Projeto em destaque
 
 **Simulador de Incentivo Fiscal — FUNEPP (Nestlé)**  
-Projeto publicado e acessível ao público. Desenvolvido por mim com **HTML, CSS e JavaScript**, aplicando regras de **IRRF e INSS**.
-
-Link: https://www.funepp.com.br/wp-content/uploads/2026/01/index26.html
+Projeto desenvolvido por mim e publicado em produção:  
+https://www.funepp.com.br/wp-content/uploads/2026/01/index26.html
 
 ---
 
-## Portfólio selecionado
+## Projetos
 
-- **Enlace (TCC 2024)** — Plataforma para contratação de intérpretes de Libras (PHP/MySQL)  
-- **API Livraria** — API REST com Node.js + MongoDB  
-- **Sistema Bancário** — Java (console)  
-- **Jogo Bob Esponja** — Java (console)  
-- **Mini projetos JavaScript** — repositório de estudos e evolução
+- Enlace (TCC 2024) — Plataforma para contratação de intérpretes de Libras  
+- API REST Livraria (Node.js + MongoDB)  
+- Sistema Bancário (Java - Console)  
+- Jogo de Tabuleiro (Java)  
+- Mini projetos em JavaScript (em evolução)
 
 ---
 
 ## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,php,mysql,nodejs,mongodb,java,html,css&theme=light" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style=for-the-badge)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?logo=knime&logoColor=black&style=for-the-badge)
 
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## Contato
 
-<!-- DECORAÇÃO SÓ NO FINAL (discreta) -->
-<div align="left">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A6F5A&height=6&section=footer"/>
-</div>
+Email: amandaluanap7@gmail.com  
+LinkedIn: https://linkedin.com/in/amanda-luana-pedreira
