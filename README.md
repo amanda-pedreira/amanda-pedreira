@@ -1,34 +1,53 @@
-Oii, Seja bem vindo (a) 🙃
-Eu sou a Amanda Luana 💚
+<div align="center">
 
-- Análise e Automatização de Dados com Knime Analytics.
+# Amanda Luana Pedreira
 
-- Graduanda em Análise e Desenvolvimento de Sistemas.  
-Técnica em Informática para Internet.  
+### Tecnologia • Dados • Desenvolvimento Web
 
-🌟 Encanto por backend, gosto por dados, e grande facilidade e domínio em desenvolvimento front-end.  
+<br>
 
-💻 Experiência em PHP, MYSQL e JavaScript. Conhecimento e familiaridade em Python, Java, Node.js, MongoDB, APIs, Macro VBA.  
+<a href="mailto:amandaluanap7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A6F5A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://linkedin.com/in/amanda-luana-pedreira">
+  <img src="https://img.shields.io/badge/LinkedIn-0A6F5A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://github.com/amanda-pedreira">
+  <img src="https://img.shields.io/badge/GitHub-0A6F5A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-________________________________________
-Contatos:
+</div>
 
-📧 [Email](mailto:aamandaluanap7@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/amanda-luana-pedreira)
+---
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnica em Informática para Internet.  
+Atualmente atuo na **Nestlé**, com foco em automação e organização de dados com **KNIME Analytics**, além do desenvolvimento de soluções web internas.
 
-________________________________________
+Aqui compartilho meus principais projetos acadêmicos e profissionais, acompanhando minha evolução na área de tecnologia.
 
-Minhas especialidades e conhecimentos:
+---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Knime](https://img.shields.io/badge/KNIME-FEDB00?style=for-the-badge&logo=knime&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Macro VBA](https://img.shields.io/badge/Macro%20VBA-862633?style=for-the-badge&logo=microsoft&logoColor=white)
+## Projeto em destaque
+
+**Simulador de Incentivo Fiscal — FUNEPP (Nestlé)**  
+https://www.funepp.com.br/wp-content/uploads/2026/01/index26.html
+
+---
+
+## Tecnologias
+
+- JavaScript, PHP, MySQL  
+- Node.js, MongoDB, APIs REST  
+- Java (projetos acadêmicos)  
+- KNIME Analytics, Excel, VBA  
+
+---
+
+## Projetos principais
+
+- Enlace (TCC 2024) — Plataforma acessível para intérpretes de Libras  
+- API REST Livraria (Node.js + MongoDB)  
+- Sistema Bancário (Java - Console)  
+- Mini projetos em JavaScript (em evolução)
