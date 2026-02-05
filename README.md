@@ -1,44 +1,40 @@
-────────────────────────────────────
-Amanda Pedreira
-Desenvolvimento • Automação • Dados
-────────────────────────────────────
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo atualmente na Nestlé, trabalhando com automação e organização de dados. Minha experiência envolve o uso de KNIME Analytics, JavaScript e Macro VBA, além do desenvolvimento de soluções web internas, incluindo um simulador de impostos (IRRF e INSS) em produção para os participantes da previdência privada da empresa.
 
-Atualmente atuo na Nestlé com automação e organização de dados utilizando
-KNIME Analytics, JavaScript e Macro VBA. Também desenvolvi um simulador
-de impostos (IRRF e INSS) voltado aos participantes da previdência privada
-da empresa, além de apoiar rotinas administrativas.
+Tenho grande interesse pela área de dados e back-end, principalmente pela lógica e resolução de problemas, mas também trabalho bastante com front-end, criando interfaces funcionais, claras e bem estruturadas para sistemas e projetos internos.
 
-Sou Técnica em Informática para Internet (ETEC, 2024) e curso Análise e
-Desenvolvimento de Sistemas no SENAC. Tenho maior afinidade com back-end
-e lógica de programação, mas também atuo com front-end na construção
-de interfaces funcionais e organizadas.
+Neste GitHub compartilho projetos acadêmicos e pessoais que acompanham minha evolução técnica ao longo do tempo — desde trabalhos do curso técnico até projetos mais recentes e completos, sempre com foco em prática e aprendizado real.
 
-Este perfil reúne projetos acadêmicos e pessoais utilizados para prática,
-estudo e acompanhamento da minha evolução técnica.
+---
 
-────────────────────────────────────
-Tecnologias
-────────────────────────────────────
+## 🛠️ Tecnologias que utilizo no dia a dia
 
-Principais:
-• PHP • MySQL • JavaScript • HTML • CSS • KNIME Analytics
+<img src="https://skillicons.dev/icons?i=php,html,css,js,java&theme=light" />
 
-Outros conhecimentos:
-• Java • Node.js • MongoDB • APIs REST • Power BI • VBA
+- KNIME Analytics  
+- VBA  
 
-────────────────────────────────────
-Projetos em destaque
-────────────────────────────────────
+---
 
-• Simulador de Imposto de Renda — FUNEPP (Nestlé)
-• Enlace — TCC ETEC (Plataforma Web)
-• API REST — Sistema de Livraria (Node.js)
-• Sistema Bancário — Java (Console)
-• Mini projetos JavaScript (em evolução)
+## 📚 Em estudo e aperfeiçoamento contínuo
 
-────────────────────────────────────
-Contato
-────────────────────────────────────
+- Node.js  
+- MongoDB  
+- APIs REST  
+- Power BI  
 
-LinkedIn: linkedin.com/in/amanda-luana-pedreira  
-Email: amandaluanap7@gmail.com
+---
+
+## 📌 Projetos em destaque
+
+- **Simulador de Imposto de Renda — FUNEPP (Nestlé)**  
+  Aplicação web em produção, voltada à simulação tributária com foco em lógica, regras fiscais e experiência do usuário.
+
+- **Enlace — TCC (ETEC)**  
+  Plataforma web para facilitar a contratação de intérpretes de Libras, desenvolvida em PHP e MySQL.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/amanda-luana-pedreira  
+- Email: amandaluanap7@gmail.com
