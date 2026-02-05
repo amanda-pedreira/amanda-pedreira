@@ -13,7 +13,6 @@ Tenho projetos em sistemas web e dados, com foco em back-end utilizando PHP, MyS
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ![KNIME](https://img.shields.io/badge/KNIME-FFD200?style=flat&logo=knime&logoColor=000)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
