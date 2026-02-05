@@ -34,8 +34,28 @@ Atuo e tenho projetos de sistemas web e dados, com foco em back-end utilizando P
 
 ---
 
+### Projeto em produção — FUNEPP (Nestlé)
+
+Simulador de impostos (IRRF e INSS) desenvolvido em JavaScript e publicado para uso público.
+
+[![Acessar simulador](https://img.shields.io/badge/Acessar%20Simulador-Online-0A6F5A?style=flat)](https://www.funepp.com.br/wp-content/uploads/2026/01/index26.html)
+
+
 ### Contato
 
 [![Email](https://img.shields.io/badge/Email-amandaluanap7%40gmail.com-0A6F5A?style=flat&logo=gmail&logoColor=white)](mailto:amandaluanap7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Pedreira-0A6F5A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-luana-pedreira/)
+
+### Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-0A6F5A?style=flat&logo=gmail&logoColor=white)](mailto:amandaluanap7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A6F5A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-luana-pedreira/)
+
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-amandaluanap7%40gmail.com-0A6F5A?style=flat&logo=gmail&logoColor=white)](mailto:amandaluanap7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Pedreira-0A6F5A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-luana-pedreira/)
+
+</div>
 
