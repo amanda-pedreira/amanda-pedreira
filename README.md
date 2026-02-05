@@ -23,6 +23,7 @@ Tenho projetos em sistemas web e dados, com foco em back-end utilizando PHP, MyS
 ## Em estudo / aperfeiçoamento
 
 - Node.js
+- Python 
 - MongoDB
 - APIs REST  
 - Power BI  
