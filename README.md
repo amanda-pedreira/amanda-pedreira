@@ -1,24 +1,32 @@
-# <seu nome>
+# Amanda Luana Pedreira
 
-────────────────────────────────
+────────────────────────────────────────────
 
-building skills today to solve real problems tomorrow.
+Estudante de **Análise e Desenvolvimento de Sistemas**  
+Técnica em **Informática para Internet**
 
-────────────────────────────────
+Atualmente atuo na **Nestlé**, com foco em **automação de processos**  
+e **organização inteligente de dados**.
+
+────────────────────────────────────────────
 
 ## about
 
-Sou Aprendiz em <sua área> e estou em transição para **Analista Júnior**.  
-Tenho perfil organizado, curioso e orientado a aprendizado prático.  
-Gosto de entender o “porquê” das coisas e transformar teoria em entrega real.
+Sou uma profissional em formação com forte interesse em lógica, automação  
+e desenvolvimento back-end.
 
-Atualmente foco em consolidar fundamentos técnicos e boas práticas, sempre buscando evolução constante.
+No meu dia a dia, trabalho com análise e estruturação de dados, buscando  
+ganhos de eficiência através de automação e melhoria de processos.
 
-────────────────────────────────
+Tenho perfil analítico, organizado e orientado a aprendizado prático,  
+com objetivo claro de evoluir para **Analista Júnior**.
 
-## current status
+────────────────────────────────────────────
+
+## current focus
 
 ```txt
-Role: Aprendiz
-Next step: Analista Júnior
-Main interests: tecnologia • processos • melhoria contínua
+• automação de processos e dados
+• desenvolvimento back-end e APIs
+• aplicações orientadas à lógica
+• consolidação de boas práticas
