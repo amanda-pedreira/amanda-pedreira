@@ -1,3 +1,5 @@
+## ✨ Amanda Luana Pedreira
+
 Graduanda em Análise e Desenvolvimento de Sistemas, atuo atualmente na Nestlé com automação e organização de dados. Trabalho com KNIME Analytics, JavaScript e Macro VBA, além do desenvolvimento de soluções web internas — incluindo um simulador de impostos (IRRF e INSS) em produção para os participantes da previdência privada da empresa.
 
 Tenho projetos em sistemas web e dados, com foco em back-end utilizando PHP, MySQL e Java. Em alguns deles também atuo no front-end, deixando as telas prontas para uso. Paralelamente, sigo estudando APIs, automação e tecnologias voltadas a dados.
@@ -6,29 +8,30 @@ Tenho projetos em sistemas web e dados, com foco em back-end utilizando PHP, MyS
 
 ## Tecnologias que mais utilizo
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,java,html,css&theme=light" />
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel&theme=light" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/knime.svg" width="40" />
-</p>
+![KNIME](https://img.shields.io/badge/KNIME-FFD200?style=flat&logo=knime&logoColor=000)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
 
 ---
 
 ## Em estudo / aperfeiçoamento
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=light" />
-</p>
-
+- Node.js
+- MongoDB
 - APIs REST  
 - Power BI  
 
 ---
 
-## Projeto em produção — FUNEPP (Nestlé)
+## Projeto em destaque — Nestlé (FUNEPP)
 
 Simulador de Imposto de Renda (IRRF e INSS), desenvolvido em JavaScript e publicado para uso público.
 
