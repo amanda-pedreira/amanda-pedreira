@@ -1,4 +1,4 @@
-## ✨ Amanda Luana Pedreira
+## ⚡︎ Amanda Luana Pedreira
 Graduanda em Análise e Desenvolvimento de Sistemas, atuo atualmente na Nestlé com automação e organização de dados. Trabalho com KNIME Analytics, JavaScript e Macro VBA, além do desenvolvimento de soluções web internas — incluindo um simulador de impostos (IRRF e INSS) em produção para os participantes da previdência privada da empresa.
 
 Tenho projetos em sistemas web e dados, com foco em back-end utilizando PHP, MySQL e Java. Em alguns deles também atuo no front-end, deixando as telas prontas para uso. Paralelamente, sigo estudando APIs, automação e tecnologias voltadas a dados.
