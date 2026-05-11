@@ -17,7 +17,7 @@ Tenho experiência com JavaScript, PHP, MySQL, KNIME Analytics, Power Automate e
 
 ---
 
-Em estudo:
+## Em estudo:
 TypeScript | Angular | Node.js | Java | MongoDB | APIs REST | Power Automate
 
 ---
