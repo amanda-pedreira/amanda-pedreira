@@ -38,9 +38,9 @@ ETEC
 </td>
 
 </tr>
-<br><br><br>
-</table>
 
+</table>
+<br><br><br>
 
 
 ## Tecnologias & Ferramentas
