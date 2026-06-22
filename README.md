@@ -44,7 +44,7 @@ ETEC
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+## 🟢 Tecnologias & Ferramentas
 
 ### Desenvolvimento Web | Programação
 
