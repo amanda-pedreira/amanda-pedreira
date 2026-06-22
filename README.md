@@ -25,13 +25,11 @@ Formação
 
 
 **Análise e Desenvolvimento de Sistemas**  
-Senac São Paulo  
-2025 - 2027
+Senac São Paulo  |  2025 - 2027
 
 
 **Técnico em Informática para Internet**  
-ETEC  
-2022 - 2024
+ETEC  |  2022 - 2024
 
 </td>
 
