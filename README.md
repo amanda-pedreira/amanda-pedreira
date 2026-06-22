@@ -92,19 +92,24 @@ Power Automate • KNIME • VBA • Power BI
 ---
 
 ---
+---
 
 ## Contato
 
 <p align="center">
 
 <a href="mailto:amandaluanap7@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-amandaluanap7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/amanda-luana-pedreira">
-<img src="https://img.shields.io/badge/LinkedIn-Amanda%20Pedreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+</p>
+
+<p align="center">
+amandaluanap7@gmail.com
 </p>
