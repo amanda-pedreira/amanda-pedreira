@@ -75,7 +75,7 @@ ETEC
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
 </p>
 
-<br>
+
 ---
 
 
@@ -87,7 +87,7 @@ ETEC
 | Automação de Gestão de Simulações | Power Automate • Excel • Automação de Processos |
 | E-commerce de Suplementos | Angular • TypeScript • Firebase • API REST |
 
-<br>
+
 ---
 
 ## Estatísticas
@@ -98,7 +98,7 @@ ETEC
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
+
 ---
 
 ## Contato
