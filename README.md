@@ -20,7 +20,7 @@ Estagiária de Tecnologia na Nestlé
 Sobre mim
 </h3>
 
----
+--
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
 Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, buscando transformar conhecimentos acadêmicos em soluções práticas através de projetos profissionais e pessoais.
@@ -34,7 +34,7 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 Formação
 </h3>
 
----
+--
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
@@ -53,7 +53,10 @@ ETEC
 
 ---
 
-## Tecnologias & Ferramentas
+<h3>
+<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
+Tecnologias & Ferramentas
+</h3>
 
 ### Desenvolvimento Web | Programação
 
@@ -88,7 +91,10 @@ ETEC
 ---
 
 
-### Projetos em destaque
+<h3>
+<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
+Projetos em destaque
+</h3>
 
 | Projeto | Tecnologias |
 |----------|-------------|
@@ -99,7 +105,10 @@ ETEC
 
 ---
 
-## Estatísticas
+<h3>
+<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
+Estatísticas
+</h3>
 
 <p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -110,7 +119,10 @@ ETEC
 
 ---
 
-## Contato
+<h3>
+<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
+Contatos
+</h3>
 
 <p align="left">
   <a href="mailto:amandaluanap7@gmail.com">
