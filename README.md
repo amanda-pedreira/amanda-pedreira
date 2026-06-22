@@ -20,10 +20,11 @@ Estagiária de Tecnologia na Nestlé
 Sobre mim
 </h3>
 
---
+<hr>
+
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
-Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, buscando transformar conhecimentos acadêmicos em soluções práticas através de projetos profissionais e pessoais.
+Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, áreas nas quais venho aplicando conhecimentos adquiridos na faculdade, em projetos próprios e na minha atuação profissional.
 
 </td>
 
@@ -34,7 +35,7 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 Formação
 </h3>
 
---
+<hr>
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
@@ -51,14 +52,11 @@ ETEC
 </tr>
 </table>
 
----
 
-<h3>
-<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
-Tecnologias & Ferramentas
-</h3>
 
-### Desenvolvimento Web | Programação
+## Tecnologias & Ferramentas
+
+### ### Desenvolvimento Web & Programação
 
 | Angular | TypeScript | JavaScript | Java | HTML5 | CSS3 | Node.js | PHP |
 |----------|----------|----------|----------|----------|----------|----------|----------|
@@ -91,24 +89,18 @@ Tecnologias & Ferramentas
 ---
 
 
-<h3>
-<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
-Projetos em destaque
-</h3>
+## Projetos em destaque
+
 
 | Projeto | Tecnologias |
 |----------|-------------|
-| Simulador Incentivo Fiscal | HTML • CSS • JavaScript |
+| <a href="https://www.funepp.com.br/wp-content/uploads/2026/02/index.html">Simulador Incentivo Fiscal</a> | HTML • CSS • JavaScript |
 | Automação de Gestão de Simulações | Power Automate • Excel • Automação de Processos |
-| E-commerce de Suplementos | Angular • TypeScript • Firebase • API REST |
-
+| <a href="https://amanda-pedreira.github.io/Ecommerce-Angular-API/">E-commerce de Suplementos</a> | Angular • TypeScript • Firebase • API REST |
 
 ---
 
-<h3>
-<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
-Estatísticas
-</h3>
+## Estatísticas
 
 <p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -119,10 +111,7 @@ Estatísticas
 
 ---
 
-<h3>
-<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
-Contatos
-</h3>
+## Contatos
 
 <p align="left">
   <a href="mailto:amandaluanap7@gmail.com">
