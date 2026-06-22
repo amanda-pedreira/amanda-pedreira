@@ -14,12 +14,13 @@ Estagiária de Tecnologia na Nestlé
 <tr>
 
 <td width="55%" valign="top">
-###
+
 <h3>
 <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
 Sobre mim
 </h3>
 
+---
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
 Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, buscando transformar conhecimentos acadêmicos em soluções práticas através de projetos profissionais e pessoais.
@@ -32,6 +33,8 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
 Formação
 </h3>
+
+---
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
