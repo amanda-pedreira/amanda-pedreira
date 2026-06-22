@@ -11,9 +11,7 @@ Sobre mim
 </h2>
 
 
-Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
-
-Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, áreas nas quais venho aplicando conhecimentos adquiridos na faculdade, em projetos próprios e na minha atuação profissional.
+Desenvolvedora em formação, atuando principalmente com aplicações web, automação de processos e soluções voltadas para dados.
 
 </td>
 
@@ -40,7 +38,8 @@ ETEC
 </tr>
 
 </table>
-<br><br><br>
+
+<br>
 
 
 ## Tecnologias & Ferramentas
@@ -76,7 +75,7 @@ ETEC
 
 
 ---
-
+<br>
 
 ## Projetos em destaque
 
@@ -88,6 +87,7 @@ ETEC
 | <a href="https://amanda-pedreira.github.io/Ecommerce-Angular-API/">E-commerce de Suplementos</a> | Angular • TypeScript • Firebase • API REST |
 
 ---
+<br>
 
 ## Estatísticas
 
@@ -99,6 +99,7 @@ ETEC
 
 
 ---
+<br>
 
 ## Contatos
 
