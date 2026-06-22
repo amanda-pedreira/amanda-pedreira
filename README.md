@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Amanda Pedreira</h1>
 
 <p align="center">
-Desenvolvimento Web • Backend • Dados
+Desenvolvimento Web • Backend • Automação e Dados
 </p>
 
 <p align="center">
@@ -52,15 +52,12 @@ ETEC
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
 
-<br>
-
 ### Banco de Dados
 
 | MySQL | MongoDB | Firebase |
 |--------|--------|--------|
 | <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"> | <img src="https://skillicons.dev/icons?i=firebase" width="45"> |
 
-<br>
 
 ### Ferramentas
 
@@ -68,7 +65,6 @@ ETEC
 |------|------|------|
 | <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=github" width="45"> | <img src="https://skillicons.dev/icons?i=vscode" width="45"> |
 
-<br>
 
 ### Automação & Dados
 
@@ -79,8 +75,9 @@ ETEC
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
 </p>
 
-
+<br>
 ---
+
 
 ### Projetos
 
@@ -90,6 +87,7 @@ ETEC
 | Automação de Gestão de Simulações | Power Automate • Excel • Automação de Processos |
 | E-commerce de Suplementos | Angular • TypeScript • Firebase • API REST |
 
+<br>
 ---
 
 ## Estatísticas
@@ -100,6 +98,7 @@ ETEC
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<br>
 ---
 
 ## Contato
