@@ -4,34 +4,38 @@
 Desenvolvimento Web • Automação • Dados
 </p>
 
+<p align="center">
+Estagiária de Tecnologia na Nestlé
+</p>
+
 <br>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### Sobre mim
+## Sobre mim
 
-Estagiária de Tecnologia na Nestlé e estudante de Análise e Desenvolvimento de Sistemas.
+Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
-Atuo com desenvolvimento de aplicações web, automação de processos e análise de dados, aplicando na prática tecnologias que estudo dentro e fora da faculdade.
-
-Tenho experiência com projetos utilizando Angular, Firebase, Power Automate, KNIME, JavaScript e bancos de dados relacionais e NoSQL.
+Tenho interesse principalmente em desenvolvimento full stack, banco de dados e automação, buscando transformar conhecimentos acadêmicos em soluções práticas através de projetos profissionais e pessoais.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### Atualmente
+## Formação
 
-- ADS • Senac São Paulo
-- Estagiária de Tecnologia • Nestlé
-- Angular & Firebase
-- Power Automate
-- KNIME Analytics
-- APIs REST
-- Banco de Dados
+**Análise e Desenvolvimento de Sistemas**  
+Senac São Paulo  
+2025 - 2027
+
+<br>
+
+**Técnico em Informática para Internet**  
+ETEC  
+2022 - 2024
 
 </td>
 
@@ -42,46 +46,71 @@ Tenho experiência com projetos utilizando Angular, Firebase, Power Automate, KN
 
 ## Tecnologias & Ferramentas
 
-<div align="center">
+### Desenvolvimento Web
 
-### Front-end
-
-Angular • TypeScript • JavaScript • HTML • CSS
-
-### Back-end
-
-Node.js • PHP
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,php" />
+</p>
 
 ### Banco de Dados
 
-MySQL • MongoDB • Firebase
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
 ### Automação & Dados
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+
 Power Automate • KNIME • VBA • Power BI
 
-### Ferramentas
-
-Git • GitHub • VS Code
-
-</div>
+</p>
 
 ---
 
-## Projetos
+## Destaques
 
-| Projeto | Tecnologias |
-|----------|-------------|
-| Simulador Incentivo Fiscal | HTML • CSS • JavaScript |
-| Automação de Gestão de Simulações | Power Automate • SharePoint • Excel |
-| E-commerce de Suplementos | Angular • TypeScript • Firebase |
+### Simulador Incentivo Fiscal
+
+Aplicação web para simulação tributária (IRRF e INSS), desenvolvida para participantes da FUNEPP.
 
 ---
 
-<div align="center">
+### Automação de Gestão de Simulações
 
-GitHub: github.com/amanda-pedreira
+Fluxo automatizado utilizando Power Automate, SharePoint e Excel para gerenciamento e distribuição de solicitações de aposentadoria.
 
-LinkedIn: linkedin.com/in/amanda-luana-pedreira
+---
 
-</div>
+### E-commerce de Suplementos
+
+Projeto Angular com CRUD completo, autenticação, controle de estoque, integração com Firebase e API REST.
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amanda-luana-pedreira">
+LinkedIn
+</a>
+
+•
+
+<a href="https://github.com/amanda-pedreira">
+GitHub
+</a>
+
+</p>
