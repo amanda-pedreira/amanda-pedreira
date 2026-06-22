@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Sou a Amanda Pedreira </h1>
+<h1 align="center">Oi! Sou a Amanda Pedreira 💚</h1>
 
 <p align="center">
 Desenvolvimento Web • Backend • Automação e Dados
@@ -15,7 +15,7 @@ Estagiária de Tecnologia na Nestlé
 
 <td width="55%" valign="top">
 
-## Sobre mim
+## 🟢 Sobre mim
 
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
@@ -25,7 +25,7 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 
 <td width="45%" valign="top">
 
-## Formação
+## 🟢 Formação
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
@@ -44,7 +44,7 @@ ETEC
 
 ---
 
-## Tecnologias & Ferramentas
+## ⚡ Tecnologias & Ferramentas
 
 ### Desenvolvimento Web | Programação
 
@@ -79,7 +79,7 @@ ETEC
 ---
 
 
-### Projetos em destaque
+### ⚡ Projetos em destaque
 
 | Projeto | Tecnologias |
 |----------|-------------|
@@ -90,9 +90,9 @@ ETEC
 
 ---
 
-## Estatísticas
+## 🟢 Estatísticas
 
-<p align="center">
+<p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true" />
@@ -101,9 +101,9 @@ ETEC
 
 ---
 
-## Contato
+## 🟢 Contato
 
-<p align="center">
+<p align="left">
   <a href="mailto:amandaluanap7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -113,6 +113,6 @@ ETEC
   </a>
 </p>
 
-<p align="center">
+<p align="left>
 📧 amandaluanap7@gmail.com
 </p>
