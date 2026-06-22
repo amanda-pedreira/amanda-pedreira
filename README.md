@@ -15,7 +15,7 @@ Estagiária de Tecnologia na Nestlé
 
 <td width="55%" valign="top">
 
-## <h2><span style="color:#2ea043;">●</span> Sobre mim</h2>
+## <h2><span style="color: green;">●</span> Sobre mim</h2>
 
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
