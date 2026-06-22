@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Amanda Pedreira</h1>
+<h1 align="center">Oi! Sou a Amanda Pedreira </h1>
 
 <p align="center">
 Desenvolvimento Web • Backend • Automação e Dados
@@ -79,7 +79,7 @@ ETEC
 ---
 
 
-### Projetos
+### Projetos em destaque
 
 | Projeto | Tecnologias |
 |----------|-------------|
