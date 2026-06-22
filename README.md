@@ -1,7 +1,7 @@
 <h1 align="center">Amanda Pedreira</h1>
 
 <p align="center">
-Desenvolvimento Web • Automação • Dados
+Desenvolvimento Web • Backend • Dados
 </p>
 
 <p align="center">
@@ -72,23 +72,13 @@ Power Automate • KNIME • VBA • Power BI
 
 ---
 
-## Destaques
+## Projetos
 
-### Simulador Incentivo Fiscal
-
-Aplicação web para simulação tributária (IRRF e INSS), desenvolvida para participantes da FUNEPP.
-
----
-
-### Automação de Gestão de Simulações
-
-Fluxo automatizado utilizando Power Automate, SharePoint e Excel para gerenciamento e distribuição de solicitações de aposentadoria.
-
----
-
-### E-commerce de Suplementos
-
-Projeto Angular com CRUD completo, autenticação, controle de estoque, integração com Firebase e API REST.
+| Projeto | Tecnologias |
+|----------|-------------|
+| Simulador Incentivo Fiscal | HTML • CSS • JavaScript |
+| Automação de Gestão de Simulações | Power Automate • Automação e Dados • Excel |
+| E-commerce de Suplementos | Angular • TypeScript • Firebase • API • CSS  |
 
 ---
 
@@ -101,16 +91,20 @@ Projeto Angular com CRUD completo, autenticação, controle de estoque, integra�
 
 ---
 
+---
+
+## Contato
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/amanda-luana-pedreira">
-LinkedIn
+<a href="mailto:amandaluanap7@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-amandaluanap7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-•
+<br><br>
 
-<a href="https://github.com/amanda-pedreira">
-GitHub
+<a href="https://www.linkedin.com/in/amanda-luana-pedreira">
+<img src="https://img.shields.io/badge/LinkedIn-Amanda%20Pedreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
