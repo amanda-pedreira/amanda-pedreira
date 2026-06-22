@@ -1,15 +1,5 @@
 <h1 align="center">Oi! Sou a Amanda Pedreira 💚</h1>
 
-<p align="center">
-Desenvolvimento Web • Backend • Automação e Dados
-</p>
-
-<p align="center">
-Estagiária de Tecnologia na Nestlé
-</p>
-
-<br>
-
 <table>
 <tr>
 
