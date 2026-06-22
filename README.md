@@ -25,7 +25,10 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 
 <td width="45%" valign="top">
 
-## <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12"> <h4>Formação</h4>
+<h3>
+<img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
+Sobre mim
+</h3>
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
