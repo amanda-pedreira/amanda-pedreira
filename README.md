@@ -46,7 +46,7 @@ ETEC
 
 ## Tecnologias & Ferramentas
 
-### Desenvolvimento Web
+### Desenvolvimento Web | Programação
 
 | Angular | TypeScript | JavaScript | HTML5 | CSS3 | Node.js | PHP |
 |----------|----------|----------|----------|----------|----------|----------|
@@ -72,8 +72,12 @@ ETEC
 
 ### Automação & Dados
 
-`Power Automate` • `KNIME Analytics` • `VBA` • `Power BI`
-
+<p align="left">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KNIME-FFD800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
+</p>
 ---
 
 ## Projetos
@@ -99,19 +103,15 @@ ETEC
 ## Contato
 
 <p align="center">
-
-<a href="mailto:amandaluanap7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/amanda-luana-pedreira">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
+  <a href="mailto:amandaluanap7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/amanda-luana-pedreira">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 <p align="center">
-amandaluanap7@gmail.com
+  amandaluanap7@gmail.com • LinkedIn
 </p>
