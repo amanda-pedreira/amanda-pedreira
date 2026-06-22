@@ -15,7 +15,7 @@ Estagiária de Tecnologia na Nestlé
 
 <td width="55%" valign="top">
 
-## 🟢 Sobre mim
+## <h2><span style="color:#2ea043;">●</span> Sobre mim</h2>
 
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
@@ -25,7 +25,7 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 
 <td width="45%" valign="top">
 
-## 🟢 Formação
+## <h2><span style="color:#2ea043;">●</span> Formação</h2>
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
