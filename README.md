@@ -9,10 +9,9 @@
 <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
 Sobre mim
 </h2>
+Desenvolvedora em formação, com foco em aplicações web, banco de dados e automação de processos.
 
-
-Desenvolvedora em formação, atuando principalmente com aplicações web, automação de processos e soluções voltadas para dados.
-
+Atualmente utilizando principalmente Angular, JavaScript, Firebase e Power Automate no dia a dia.
 </td>
 
 <td width="45%" valign="top">
@@ -30,6 +29,7 @@ Senac São Paulo  |  2025 - 2027
 
 **Técnico em Informática para Internet**  
 ETEC  |  2022 - 2024
+
 
 </td>
 
