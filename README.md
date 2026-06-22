@@ -15,12 +15,11 @@ Estagiária de Tecnologia na Nestlé
 
 <td width="55%" valign="top">
 
-<h3>
+<h2>
 <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
 Sobre mim
-</h3>
+</h2>
 
-<hr>
 
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
@@ -30,18 +29,17 @@ Tenho interesse principalmente em desenvolvimento full stack, banco de dados e a
 
 <td width="45%" valign="top">
 
-<h3>
+<h2>
 <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12">
 Formação
-</h3>
+</h2>
 
-<hr>
+
 
 **Análise e Desenvolvimento de Sistemas**  
 Senac São Paulo  
 2025 - 2027
 
-<br>
 
 **Técnico em Informática para Internet**  
 ETEC  
@@ -56,7 +54,7 @@ ETEC
 
 ## Tecnologias & Ferramentas
 
-### ### Desenvolvimento Web & Programação
+### Desenvolvimento Web & Programação
 
 | Angular | TypeScript | JavaScript | Java | HTML5 | CSS3 | Node.js | PHP |
 |----------|----------|----------|----------|----------|----------|----------|----------|
