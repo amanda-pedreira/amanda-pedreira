@@ -48,27 +48,31 @@ ETEC
 
 ### Desenvolvimento Web
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,php" />
-</p>
+| Angular | TypeScript | JavaScript | HTML5 | CSS3 | Node.js | PHP |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
+
+<br>
 
 ### Banco de Dados
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+| MySQL | MongoDB | Firebase |
+|--------|--------|--------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"> | <img src="https://skillicons.dev/icons?i=firebase" width="45"> |
+
+<br>
+
+### Ferramentas
+
+| Git | GitHub | VS Code |
+|------|------|------|
+| <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=github" width="45"> | <img src="https://skillicons.dev/icons?i=vscode" width="45"> |
+
+<br>
 
 ### Automação & Dados
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p align="center">
-
-Power Automate • KNIME • VBA • Power BI
-
-</p>
+`Power Automate` • `KNIME Analytics` • `VBA` • `Power BI`
 
 ---
 
@@ -77,21 +81,19 @@ Power Automate • KNIME • VBA • Power BI
 | Projeto | Tecnologias |
 |----------|-------------|
 | Simulador Incentivo Fiscal | HTML • CSS • JavaScript |
-| Automação de Gestão de Simulações | Power Automate • Automação e Dados • Excel |
-| E-commerce de Suplementos | Angular • TypeScript • Firebase • API • CSS  |
+| Automação de Gestão de Simulações | Power Automate • Excel • Automação de Processos |
+| E-commerce de Suplementos | Angular • TypeScript • Firebase • API REST |
 
 ---
 
 ## Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
----
 ---
 
 ## Contato
