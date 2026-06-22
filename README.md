@@ -15,7 +15,7 @@ Estagiária de Tecnologia na Nestlé
 
 <td width="55%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-%232ea043?style=flat-square"> Sobre mim
+#### <img src="https://img.shields.io/badge/-2ea043?style=flat-square" height="12"> Sobre mim
 
 Atualmente atuo com desenvolvimento de aplicações web, automação de processos e análise de dados.
 
