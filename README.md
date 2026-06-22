@@ -1,4 +1,4 @@
-<h1 align="center">Amanda Pedreira</h1>
+<h1 align="center">⚡ Amanda Pedreira</h1>
 
 <p align="center">
 Desenvolvimento Web • Backend • Dados
@@ -48,9 +48,9 @@ ETEC
 
 ### Desenvolvimento Web | Programação
 
-| Angular | TypeScript | JavaScript | HTML5 | CSS3 | Node.js | PHP |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
+| Angular | TypeScript | JavaScript | Java | HTML5 | CSS3 | Node.js | PHP |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
 
 <br>
 
@@ -78,9 +78,11 @@ ETEC
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
 </p>
+
+
 ---
 
-## Projetos
+### Projetos
 
 | Projeto | Tecnologias |
 |----------|-------------|
@@ -113,5 +115,5 @@ ETEC
 </p>
 
 <p align="center">
-  amandaluanap7@gmail.com • LinkedIn
+📧 amandaluanap7@gmail.com
 </p>
