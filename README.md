@@ -75,19 +75,18 @@ ETEC | 2022 - 2024
 
 ---
 
-<br>
 
+
+<br>
 
 <h2 align="center">🌿 Projetos em destaque</h2>
 
+<div align="center">
+
 <table align="center">
 <tr>
-  <th width="50%" align="center">
-    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Projeto" width="70%" alt="Projeto">
-  </th>
-  <th width="50%" align="center">
-    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Tecnologias" width="70%" alt="Tecnologias">
-  </th>
+<th align="center">Projeto</th>
+<th align="center">Tecnologias</th>
 </tr>
 
 <tr>
@@ -108,6 +107,7 @@ ETEC | 2022 - 2024
 </td>
 <td align="center">Angular • TypeScript • Firebase • API REST</td>
 </tr>
+
 </table>
 
 </div>
