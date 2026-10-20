@@ -40,7 +40,7 @@ ETEC  |  2022 - 2024
 <br>
 
 
-## Tecnologias & Ferramentas
+## 🌿 Tecnologias & Ferramentas
 
 ### Desenvolvimento Web & Programação
 
@@ -78,7 +78,7 @@ ETEC  |  2022 - 2024
 ---
 <br>
 
-## Projetos em destaque
+## 🌿 Projetos em destaque
 
 
 | Projeto | Tecnologias |
@@ -90,7 +90,7 @@ ETEC  |  2022 - 2024
 ---
 <br>
 
-## Estatísticas
+## 🌿 Estatísticas
 
 <p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-pedreira&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -102,18 +102,16 @@ ETEC  |  2022 - 2024
 ---
 <br>
 
-## Contatos
+## 🌿 Contatos
 
-<p align="left">
-  <a href="mailto:amandaluanap7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/amanda-luana-pedreira">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<div align="center">
 
-<p align="left">
-📧 amandaluanap7@gmail.com
-</p>
+<a href="mailto:amandaluanap7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-A8D5BA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amanda-luana-pedreira">
+  <img src="https://img.shields.io/badge/LinkedIn-7FB77E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
