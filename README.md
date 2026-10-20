@@ -83,10 +83,10 @@ ETEC | 2022 - 2024
 <table align="center">
 <tr>
   <th width="45%" align="center">
-    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Projeto" width="100%" alt="Projeto">
+    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Projeto" width="70%" alt="Projeto">
   </th>
   <th width="55%" align="center">
-    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Tecnologias" width="100%" alt="Tecnologias">
+    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Tecnologias" width="70%" alt="Tecnologias">
   </th>
 </tr>
 
