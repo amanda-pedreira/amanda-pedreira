@@ -10,11 +10,9 @@
 
 <h2>🌿 Sobre mim</h2>
 
-Desenvolvedora em formação, com foco em aplicações web, banco de dados e automação de processos.
-
-<br><br>
-
-Atualmente utilizando principalmente Angular, JavaScript, Firebase e Power Automate no dia a dia.
+Atuando com desenvolvimento e automação de processos, criando soluções voltadas à otimização de rotinas e integração de sistemas.
+<br>
+Tenho experiência prática com Angular, JavaScript, Python, Firebase e Power Automate, combinando desenvolvimento e automação.
 
 </td>
 
@@ -26,11 +24,13 @@ Atualmente utilizando principalmente Angular, JavaScript, Firebase e Power Autom
 
 Senac São Paulo | 2025 - 2027
 
-<br><br>
+<br>
 
 <strong>Técnico em Informática para Internet</strong>
 
 ETEC | 2022 - 2024
+
+<br>
 
 </td>
 
@@ -44,7 +44,7 @@ ETEC | 2022 - 2024
 <h3 align="center">Desenvolvimento Web & Programação</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,ts,js,java,python,spring,html,css,php" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,java,spring,python,php,html,css" />
 </p>
 
 <h3 align="center">Banco de Dados</h3>
@@ -77,14 +77,17 @@ ETEC | 2022 - 2024
 
 <br>
 
-<h2 align="center">🌿 Projetos em destaque</h2>
 
-<div align="center">
+<h2 align="center">🌿 Projetos em destaque</h2>
 
 <table align="center">
 <tr>
-<th align="center">Projeto</th>
-<th align="center">Tecnologias</th>
+<th align="center">
+<img src="https://img.shields.io/badge/Projeto-DDF2E1?style=flat-square&labelColor=DDF2E1&color=DDF2E1" alt="Projeto"/>
+</th>
+<th align="center">
+<img src="https://img.shields.io/badge/Tecnologias-DDF2E1?style=flat-square&labelColor=DDF2E1&color=DDF2E1" alt="Tecnologias"/>
+</th>
 </tr>
 
 <tr>
@@ -98,6 +101,15 @@ ETEC | 2022 - 2024
 <td align="center">Automação de Gestão de Simulações</td>
 <td align="center">Power Automate • Excel • Automação de Processos</td>
 </tr>
+
+<tr>
+<td align="center">
+<a href="https://amanda-pedreira.github.io/Ecommerce-Angular-API/">E-commerce de Suplementos</a>
+</td>
+<td align="center">Angular • TypeScript • Firebase • API REST</td>
+</tr>
+</table>
+
 
 <tr>
 <td align="center">
@@ -123,15 +135,13 @@ ETEC | 2022 - 2024
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-pedreira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 <h2 align="center">🌿 Contatos</h2>
 
 <p align="center">
+
+<br>
 
 <a href="mailto:amandaluanap7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-A8D5BA?style=for-the-badge&logo=gmail&logoColor=white"/>
