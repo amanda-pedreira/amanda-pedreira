@@ -8,17 +8,17 @@
 
 <td width="55%" align="center" valign="top">
 
-<h2>🌿 Sobre mim</h2>
+<h2>Sobre mim</h2>
 
 Atuando com desenvolvimento e automação de processos, criando soluções voltadas à otimização de rotinas e integração de sistemas.
-<br>
+<br><br>
 Tenho experiência prática com Angular, JavaScript, Python, Firebase e Power Automate, combinando desenvolvimento e automação.
 
 </td>
 
 <td width="45%" align="center" valign="top">
 
-<h2>🌿 Formação</h2>
+<h2>Formação</h2>
 
 <strong>Análise e Desenvolvimento de Sistemas</strong>
 
@@ -82,12 +82,12 @@ ETEC | 2022 - 2024
 
 <table align="center">
 <tr>
-<th align="center">
-<img src="https://img.shields.io/badge/Projeto-DDF2E1?style=flat-square&labelColor=DDF2E1&color=DDF2E1" alt="Projeto"/>
-</th>
-<th align="center">
-<img src="https://img.shields.io/badge/Tecnologias-DDF2E1?style=flat-square&labelColor=DDF2E1&color=DDF2E1" alt="Tecnologias"/>
-</th>
+  <th width="45%" align="center">
+    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Projeto" width="100%" alt="Projeto">
+  </th>
+  <th width="55%" align="center">
+    <img src="https://placehold.co/500x50/DDF2E1/25352A.png?text=Tecnologias" width="100%" alt="Tecnologias">
+  </th>
 </tr>
 
 <tr>
@@ -108,16 +108,6 @@ ETEC | 2022 - 2024
 </td>
 <td align="center">Angular • TypeScript • Firebase • API REST</td>
 </tr>
-</table>
-
-
-<tr>
-<td align="center">
-<a href="https://amanda-pedreira.github.io/Ecommerce-Angular-API/">E-commerce de Suplementos</a>
-</td>
-<td align="center">Angular • TypeScript • Firebase • API REST</td>
-</tr>
-
 </table>
 
 </div>
