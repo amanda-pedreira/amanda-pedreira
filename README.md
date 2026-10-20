@@ -44,9 +44,9 @@ ETEC  |  2022 - 2024
 
 ### Desenvolvimento Web & Programação
 
-| Angular | TypeScript | JavaScript | Java | HTML5 | CSS3 | Node.js | PHP |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
+| Angular | TypeScript | JavaScript | Java | Python | Spring Boot | HTML5 | CSS3 | PHP |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=angular" width="45"> | <img src="https://skillicons.dev/icons?i=ts" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=python" width="45"> | <img src="https://skillicons.dev/icons?i=spring" width="45"> | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=php" width="45"> |
 
 ### Banco de Dados
 
@@ -62,13 +62,16 @@ ETEC  |  2022 - 2024
 | <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=github" width="45"> | <img src="https://skillicons.dev/icons?i=vscode" width="45"> |
 
 
-### Automação & Dados
+### Automação, Dados & Integrações
 
 <p align="left">
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KNIME-FFD800?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/KNIME-FFD800?style=for-the-badge&logo=knime&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 
